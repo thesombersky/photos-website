@@ -65,7 +65,7 @@
 }
 .photos img:hover {
   opacity: 0.4;
-  transition-delay: .1s;
+  transition: .7s ease;
 }
 
 
